@@ -1,0 +1,1 @@
+2025-12-01 14:48:07 | Gender=Female | Pregnancies=2 | Glucose=170 | BP=90 | Skin=40 | Insulin=0 | BMI=34.5 | DPF=0.72 | Age=52 | Result=Diabetic

@@ -1,0 +1,1 @@
+2025-11-24 11:59:16 | Gender=Female | Pregnancies=0 | Glucose=130 | BP=85 | Skin=20 | Insulin=80 | BMI=24.5 | DPF=0.45 | Age=20 | Result=Non-Diabetic

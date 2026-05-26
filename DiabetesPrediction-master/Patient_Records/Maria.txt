@@ -1,0 +1,1 @@
+2025-11-22 15:06:21 | Gender=Male | Pregnancies=0 | Glucose=160 | BP=85 | Skin=30.0 | Insulin=100.0 | BMI=32.5 | DPF=0.67 | Age=20 | Result=Diabetic

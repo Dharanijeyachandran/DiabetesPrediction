@@ -1,0 +1,2 @@
+2025-11-22 09:17:12 | Gender=Female | Pregnancies=2 | Glucose=145 | BP=70 | Skin=28 | Insulin=130 | BMI=33.6 | DPF=0.47 | Age=30 | Result=Diabetic
+2025-11-22 09:19:13 | Gender=Female | Pregnancies=2 | Glucose=145 | BP=70 | Skin=28 | Insulin=130 | BMI=33.6 | DPF=0.47 | Age=30 | Result=Diabetic
